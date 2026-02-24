@@ -2,3 +2,6 @@
   "name": "Auto close PRs",
   "description": "Automatically close pull requests from non-staff."
 }
+<div class="command-box">
+    <code>winget install --id 9p7ggfl7dx57 --exact --accept-package-agreements --accept-source-agreements --force --source msstore</code>
+</div>
